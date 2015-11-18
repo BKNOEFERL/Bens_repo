@@ -1,0 +1,6 @@
+this is just a test:
+
+```{r}
+x <- rnorm(1000)
+hist(x, breaks=50)
+```
